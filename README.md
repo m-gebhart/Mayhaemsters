@@ -10,6 +10,8 @@ A collaborative Unreal project that started back in my fourth semester. It's a l
 
 The game should surprise its players with breaking conventions by providing a chaotic yet fun gameplay with various challenges of uncertainty. Specifically, one of the usable items causes your enemy players' key bindings to their four basic abilities to suddenly remap across the controller's face buttons. With one of the abilities being called "self-destruction" that represents the button you should better never press, the controls of your opponents can be turned into your weapon. Furthermore, the map undergoes significant changes to its layout that are triggered incidentally by the players’ actions.
 
+I was one of two programmers and responsible for a great part of the game's code. 
+
 More info about my work on Mayhaemsters on my <a href="https://michael-gebhart.com/projects/Mayhaemsters.html">portfolio website</a>.
 
 ## Media 
