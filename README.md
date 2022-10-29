@@ -12,7 +12,7 @@ The game should surprise its players with breaking conventions by providing a ch
 
 I was one of two programmers and responsible for a great part of the game's code. 
 
-More info about my work on Mayhaemsters on my <a href="https://michael-gebhart.com/projects/Mayhaemsters.html">portfolio website</a>.
+Project page on my <a href="https://michael-gebhart.com/projects/Mayhaemsters.html">portfolio website</a>.
 
 ## Media 
 
