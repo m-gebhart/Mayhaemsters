@@ -16,7 +16,15 @@ Project page on my <a href="https://michael-gebhart.com/projects/Mayhaemsters.ht
 
 ## Media 
 
-Trailer on YouTube: https://www.youtube.com/watch?v=kcvsO3s0WYQ
+#### GIFs
+![Mayhaemsters_5_compressed-and-cut](https://user-images.githubusercontent.com/45672199/200559339-07e8290e-be8f-43a4-b665-39fbb72bdb70.gif)
+![Mayhamsters_3](https://user-images.githubusercontent.com/45672199/200555313-f4361f01-30bf-4e5b-9035-9b62398573c7.gif)
+![Mayhamsters_1](https://user-images.githubusercontent.com/45672199/200555300-69893c44-0f8b-452d-8c5b-0a34ae3678e0.gif)
 
-Screenshot:
-![grafik](https://user-images.githubusercontent.com/45672199/198703671-f08745b7-d686-451b-886c-665cd14d54a0.png)
+
+#### Trailer on YouTube
+
+[![Mayhaemsters Trailer](http://img.youtube.com/vi/kcvsO3s0WYQ/0.jpg)](http://www.youtube.com/watch?v=kcvsO3s0WYQ "YouTube:  Mayhaemsters - Survive The Mayhem! Trailer")
+
+<!--
+![grafik](https://user-images.githubusercontent.com/45672199/198703671-f08745b7-d686-451b-886c-665cd14d54a0.png)*/ -->
