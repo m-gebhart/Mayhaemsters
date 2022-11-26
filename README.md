@@ -14,6 +14,17 @@ I was one of two programmers on the project, being responsible for the code for 
 
 Project page on my <a href="https://michael-gebhart.com/projects/Mayhaemsters.html">portfolio website</a>.
 
+## Team
+
+<ul>
+  <li>Daniel Baracotti (Game Design, Sound Design)</li>
+  <li>Mohamed Hanafy Mahmoud (Game Arts)</li>
+  <li>Mohammed Najeeb Mshaweh (Game Programming)</li>
+  <li>Michael Gebhart (Production, Game Programming)</li>
+  <li>Samed Mohamed Aransa (Game Arts)</li>
+  <li>Sebestian Gerena (Game Arts)</li>
+</ul>
+
 ## Media 
 
 #### GIFs
